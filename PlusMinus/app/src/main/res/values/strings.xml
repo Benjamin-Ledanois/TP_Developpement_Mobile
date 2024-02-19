@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Plus Minus</string>
+    <string name="textViewStart">Bienvenue ! Veuillez entrer une valeur Max et Min.</string>
+    <string name="textViewStart2">Entrez un nombre entre Min et Max.</string>
+    <string name="text_view_plus">C\'est plus !</string>
+    <string name="text_view_moins">C\'est moins !</string>
+    <string name="text_view_exact">Bravo vous avez trouvé avec </string>
+    <string name="text_view_error"> Il faut un nombre entre 1 et 100.</string>
+    <string name="text_view_errorMinMax"> Il faut renseigner le min et le max.</string>
+    <string name="text_view_exception">Erreur : il faut entrer une valeur.</string>
+    <string name="editTextHint">Entrez un nombre</string>
+    <string name="buttonText">Envoyer</string>
+    <string name="felicitation">Vous avez trouvé en peu d\'essais, félicitation !</string>
+    <string name="felicitation2">Vous pouvez mieux faire !</string>
+    <string name="textMax">Max : </string>
+    <string name="textMin">Min : </string>
+    <string name="buttonTextMinMax">Valider</string>
+    <string name="buttonTextReset">Recommencer</string>
+    <string name="buttonTextFinish">Arreter</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Question</string>
+    <string name="question">What\'s your favorite planet ?</string>
+
+    <string-array name="responses">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+        <item>Another planet</item>
+    </string-array>
+</resources>
